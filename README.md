@@ -3,7 +3,7 @@ data-structures
 
 This repo is inspired by my data structures class. It's my implentation of a postfix calculator using some basic provided files.
 
-Use it by initializing a new PostFix with a Queue as an argument, as in:
+Use it by initializing a new PostFix with a QueueList as an argument, as in:
 
  QueueList<String> q = new QueueList<String>();
 	    
