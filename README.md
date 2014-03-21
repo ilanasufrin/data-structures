@@ -5,7 +5,7 @@ This repo is inspired by my data structures class. It's my implentation of a pos
 
 Use it by initializing a new PostFix with a QueueList as an argument, as in:
 
- QueueList<String> q = new QueueList<String>();
+     	QueueList<String> q = new QueueList<String>();
 	    
 	    q.enqueue("1");
 	    q.enqueue("2");
